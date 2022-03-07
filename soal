@@ -1,0 +1,63 @@
+memasak air
+1. mulai
+2. siapkan panci diatas kompor
+3. masukan air secukupnya
+4. tutup pancinya agar cepat mendidih
+5. nyalakan kompornya
+6. tunggu hingga mendidih
+7. matikan kompornya
+8. angkat pancinya 
+9.selesai
+\\\\\\\\\\\\\\\\\\\\\
+
+pindahkan isi gelas
+1.mulai
+2.siapkan gelas lain
+3. pindahkan gelas isi teh ke gelas lain
+4. cuci gelas bekas teh
+5. tuang kopi ke gelas bekas teh
+6. cuci gelas bekas kopi
+7. tuang teh ke gelas bekas kopi
+8. cuci gelas lain
+\\\\\\\\\\\\\\\\\\\\\
+
+luas lingkaran
+1. masukan jari-jari
+2. jika jari-jari dapat dibagi 7 maka phi 22/7, jika tidak maka phi 3,14
+3. masukan jari-jari dan phhi kerumus
+4. hasilnya
+5. selesai
+\\\\\\\\\\\\\\\\\\\\\
+
+soal 1
+mulai
+masukan x dan y
+bandingkan x dan y
+jika x lebih besar daripada y maka keluar x lebih besar
+jika y lebih besar daripada x maka keluar y lebih besar
+selasai
+
+soal 2
+mulai
+masukan x
+jika x dibagi 2 dan sisanya 0 maka keluar x bilangan genap
+jika masih ada sisa maka kelauar x bilangan ganjil
+selesai
+\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+kata polindrom
+1. mulai
+2. masukan kata
+3. buat variabel x = panjang kata - 1
+4. jika x >= 0 ,maka lanjut ke step berikutnya, jika tidak maka lanjut ke step 7 
+5. buat variabel hasil = hasil +  huruf ke x didalam kata
+6. x = x - 1 , kembali ke step 4
+7. bandingkan hasil denga kata inputan
+8. jika sama maka cetak palindrom , jika tidak maka cetak bukan palindrom
+9. selesai
+
+reverse word
+1. mulai
+2. masukan kalimat
+3. pisahkan kalimat per kata
+4. balik kata yang ada di kalimat
